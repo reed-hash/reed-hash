@@ -2,26 +2,21 @@
     - Pronouns she/her
 
 <h2>📖 Education </h2>
-- <b>Master of Science Cybersecurity </b>
+- <b> [Master of Science Cybersecurity](https://blockchain.maryville.edu/certificate/be4956f6272e5ed7915f106eee7b9521) </b>
 
 <h2>📃 Certificates:</h2>
 
 - [Cybersecurity Awareness: Cloud Security](https://1drv.ms/b/s!Aq9AvpX7EWr-z1Uxy0e89NfoLPd6?e=pzVjnE)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>VPN, Honeypots, and Defenses Against IP Spoofing Lab </b>
-  - [Lab Walkthrough[(https://github.com/reed-hash/VPN-Honeypots-and-Defenses-Against-IP-Spoofing-Lab)
+  - [Lab Walkthrough](https://github.com/reed-hash/VPN-Honeypots-and-Defenses-Against-IP-Spoofing-Lab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Turoial Active Directory Home Lab (Create the video and replace link](link)
 
 <h2> 🤳 Connect with me:</h2>
 
