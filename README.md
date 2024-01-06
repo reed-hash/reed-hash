@@ -13,8 +13,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  - [Activy Directory Lab Walkthrough[(linkhere)
+- <b>VPN, Honeypots, and Defenses Against IP Spoofing Lab </b>
+  - [Lab Walkthrough[(https://github.com/reed-hash/VPN-Honeypots-and-Defenses-Against-IP-Spoofing-Lab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
