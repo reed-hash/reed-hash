@@ -21,8 +21,8 @@
 
 - <b>VPN, Honeypots, and Defenses Against IP Spoofing Lab </b>
   - [Lab Walkthrough](https://github.com/reed-hash/VPN-Honeypots-and-Defenses-Against-IP-Spoofing-Lab)
-- <b>Creating Password Policy in Local Group Policy</b>
-  - [Lab Walkthrough](https://github.com/reed-hash/Local-Group-Policy)
+- <b>Managing User Access Controls with Group Policy Manager</b>
+  - [Lab Walkthrough](https://github.com/reed-hash/User-Access-Controls/blob/main/README.md)
 
 <h2>📫 Work History:</h2>
 
