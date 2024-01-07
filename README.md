@@ -22,7 +22,11 @@
 - <b>VPN, Honeypots, and Defenses Against IP Spoofing Lab </b>
   - [Lab Walkthrough](https://github.com/reed-hash/VPN-Honeypots-and-Defenses-Against-IP-Spoofing-Lab)
 - <b>Managing User Access Controls with Group Policy Manager</b>
-  - [Lab Walkthrough](https://github.com/reed-hash/User-Access-Controls/blob/main/README.md)
+  - [Lab Walkthrough](https://github.com/reed-hash/User-Access-Controls/blob/main/README.md)\
+- <b>DarkComet as a Trojan, XSS Injections, Enabling Intrusion Prevention and Dectection</b>
+  - [Lab Report/Walkthrough](https://1drv.ms/w/s!Aq9AvpX7EWr-0hng7E3Kw39IKOpe?e=fHLICk)
+- <b>Using Nessus and Snort</b>
+  - [Lab Report/Walkthrough](https://1drv.ms/w/s!Aq9AvpX7EWr-0kJMo_jh4wRHWa52?e=AAAcRv)
 
 <h2>📫 Work History:</h2>
 
