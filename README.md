@@ -22,16 +22,30 @@
 - <b>VPN, Honeypots, and Defenses Against IP Spoofing Lab </b>
   - [Lab Walkthrough](https://github.com/reed-hash/VPN-Honeypots-and-Defenses-Against-IP-Spoofing-Lab)
 - <b>Managing User Access Controls with Group Policy Manager</b>
-  - [Lab Walkthrough](https://github.com/reed-hash/User-Access-Controls/blob/main/README.md)\
+  - [Lab Walkthrough](https://github.com/reed-hash/User-Access-Controls/blob/main/README.md)
 - <b>DarkComet as a Trojan, XSS Injections, Enabling Intrusion Prevention and Dectection</b>
   - [Lab Report/Walkthrough](https://1drv.ms/w/s!Aq9AvpX7EWr-0hng7E3Kw39IKOpe?e=fHLICk)
 - <b>Using Nessus and Snort</b>
   - [Lab Report/Walkthrough](https://1drv.ms/w/s!Aq9AvpX7EWr-0kJMo_jh4wRHWa52?e=AAAcRv)
+- <b>Asset Security using Chain of Custody and Windows Firewall</b>
+  - [Lab Report/Walkthrough](https://1drv.ms/w/s!Aq9AvpX7EWr-0gD541iyD98Sv56_?e=fBmRbq)
 
 <h2>📫 Work History:</h2>
 
 - Network Operation Center Technician I | Irby Utilities | Jonesboro, Arkansas | October 2023 - Present
-    - Duties: 
+    - Duties:
+        - Network Monitoring and Reporting
+            
+        - Ticket Queue Management
+      
+        - Trouble Ticket Routing and Required Information Validation
+      
+        - Field Service Representative Dispatching Requests
+      
+        - Creating Tickets for Cooperatives and P1 businesses
+      
+        - Provide training for ICC tier 2 technicians 
+
 * Intern | City of Jonesboro Information Systems | Jonesboro, Arkansas | July 2023 - October 2023
     - Duties: 
 + Assistant Manager | 10Fitness | Jonesboro, Arkansas | May 2022 – October 2022
