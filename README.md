@@ -57,7 +57,9 @@
 
 <h2>📫 How to reach me:</h2>
 
-
+- Email: mareed2393@gmail.com
+- Phone: 870-656-8954
+- Linkin: https://www.linkedin.com/in/teresa-reed-580335262/
 <!--
 
 
