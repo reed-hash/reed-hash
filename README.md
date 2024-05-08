@@ -11,6 +11,7 @@
 
 <h2>📃 Certificates:</h2>
 
+- [Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://www.credly.com/badges/7088dfd1-8d41-4fe9-be28-d2ab983a25fe/public_url)
 - [ISC2 Certified in Cybersecurity](https://coursera.org/share/692bb04591c0b6765796b4755e599803) 
 - [Cybersecurity Incident Response](https://blockchain.maryville.edu/certificate/be4956f6272e5ed7915f106eee7b9521)
 - [Splunk Certified](https://1drv.ms/f/s!Aq9AvpX7EWr-7gq75ddzTxTuogOM?e=thtD5U) 
