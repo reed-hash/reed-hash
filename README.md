@@ -18,6 +18,7 @@
 - [Cybersecurity Incident Response](https://blockchain.maryville.edu/certificate/be4956f6272e5ed7915f106eee7b9521)
 - [Splunk Certified](https://1drv.ms/f/s!Aq9AvpX7EWr-7gq75ddzTxTuogOM?e=thtD5U) 
 - [Cybersecurity Awareness: Cloud Security](https://1drv.ms/b/s!Aq9AvpX7EWr-z1Uxy0e89NfoLPd6?e=pzVjnE)
+- [EC-Council Certified Encryption Specialist (ECES) Version 3 ](https://1drv.ms/i/s!Aq9AvpX7EWr-7nKaf7Re3LcWO-Ga?e=qFhL0L)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
