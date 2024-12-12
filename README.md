@@ -11,7 +11,7 @@
 
 <h2>📃 Certificates:</h2>
 
-- [ISC2 Certified Information Systems Security Professional (CISSP) (2024) Cert Prep ](https://www.linkedin.com/learning/certificates/89b7228349027d46891c6728452c45ae99b547e70546af107063dd2587354902?u=86780594)
+- [ISC2 Certified Information Systems Security Professional (CISSP) (2024) ]([https://www.linkedin.com/learning/certificates/89b7228349027d46891c6728452c45ae99b547e70546af107063dd2587354902?u=86780594](https://www.credly.com/badges/b094894e-669c-48e2-a7cd-b13c6e299d62/public_url))
 - [CompTIA Network+ ce Certification](https://www.credly.com/badges/0404ddba-0e02-495a-a695-9527d6670c1e/public_url)
 - [Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://www.credly.com/badges/7088dfd1-8d41-4fe9-be28-d2ab983a25fe/public_url)
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/b21649e3-8b98-4e0b-8258-f6ecad288604/public_url) 
