@@ -5,20 +5,22 @@
 <h2>📖 Education </h2>
 
 - <b> [Masters of Science, Cybersecurity](https://blockchain.maryville.edu/certificate/f6631054e19058c684b62070be755956)<b>
+    - Maryville Univerity 
     - John E. Simon School of Business: Outstanding Graduate Cybersecurity Student
     - GPA 4.0
-
+- <b> [Bachelors of Science]<b>
+    - Arkansas State University
+    - GPA 3.7
+    - Division I Student Athlete - Track and Field 
 
 <h2>📃 Certificates:</h2>
 
-- [ISC2 Certified Information Systems Security Professional (CISSP) (2024) ]([https://www.linkedin.com/learning/certificates/89b7228349027d46891c6728452c45ae99b547e70546af107063dd2587354902?u=86780594](https://www.credly.com/badges/b094894e-669c-48e2-a7cd-b13c6e299d62/public_url))
+- [Associate of ISC2 Certified Information Systems Security Professional (CISSP)]((https://www.credly.com/badges/b094894e-669c-48e2-a7cd-b13c6e299d62/public_url))
 - [CompTIA Network+ ce Certification](https://www.credly.com/badges/0404ddba-0e02-495a-a695-9527d6670c1e/public_url)
 - [Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://www.credly.com/badges/7088dfd1-8d41-4fe9-be28-d2ab983a25fe/public_url)
-- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/b21649e3-8b98-4e0b-8258-f6ecad288604/public_url) 
 - [Cybersecurity Incident Response](https://blockchain.maryville.edu/certificate/be4956f6272e5ed7915f106eee7b9521)
 - [Splunk Certified](https://1drv.ms/f/s!Aq9AvpX7EWr-7gq75ddzTxTuogOM?e=thtD5U) 
-- [Cybersecurity Awareness: Cloud Security](https://1drv.ms/b/s!Aq9AvpX7EWr-z1Uxy0e89NfoLPd6?e=pzVjnE)
-- [EC-Council Certified Encryption Specialist (ECES) Version 3 ](https://1drv.ms/i/s!Aq9AvpX7EWr-7nKaf7Re3LcWO-Ga?e=qFhL0L)
+- [Applied Python Cryptography](https://1drv.ms/i/s!Aq9AvpX7EWr-7nKaf7Re3LcWO-Ga?e=qFhL0L)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -36,30 +38,25 @@
 
 <h2>📫 Work History:</h2>
 
-- Network Operation Center Technician I | Irby Utilities | Jonesboro, Arkansas | October 2023 - Present
-    - Duties:
-        - Network Monitoring and Reporting
-            
-        - Ticket Queue Management
-      
-        - Trouble Ticket Routing and Required Information Validation
-      
-        - Field Service Representative Dispatching Requests
-      
-        - Creating Tickets for Cooperatives and P1 businesses
-      
-        - Provide training for ICC tier 2 technicians 
+- Network Operation Center Technician II | Irby Utilities | Jonesboro, Arkansas | October 2023 - Present
+    - Configure and maintain Juniper routers with firewall filters, prefix lists, and route policies to optimize network security and traffic flow.
+    - Manage and troubleshoot OSPF, BGP, VLANs, and MPLS in service provider environments.
+    - Conduct minor penetration testing and security assessments to identify and mitigate risks.
+    - Analyze logs and implement access control lists and intrusion prevention measures. 
 
-* Intern | City of Jonesboro Information Systems | Jonesboro, Arkansas | July 2023 - October 2023
-    - Duties: 
-+ Assistant Manager | 10Fitness | Jonesboro, Arkansas | May 2022 – October 2022
-    - Duties: 
+- Intern | City of Jonesboro Information Systems | Jonesboro, Arkansas | July 2023 - October 2023
+    - Hands on experience with Active Directory (user management, group policies, and permissions)
+    - Providing tier-1 and tier-2 support for city employees (troubleshooting software, hardware, and connectivity issues) 
 
+- E911 Dispatcher | Jonesboro Police Department | Jonesboro, AR | December 2022 – October 2023
+    -  Strong decision-making and problem-solving abilities
+    -  Clear and effective communication under pressure
+    -  Multitasking and prioritization of emergency responses
+    -  Emergency call handling and crisis management 
 
 
 <h2>📫 How to reach me:</h2>
 
-- Email: mareed2393@gmail.com
 - Linkin: https://www.linkedin.com/in/teresa-reed-580335262/
 <!--
 
