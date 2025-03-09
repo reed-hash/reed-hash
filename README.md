@@ -46,7 +46,7 @@
 
 <h2>📃 Certificates:</h2>
 
-- [Associate of ISC2 Certified Information Systems Security Professional (CISSP)]((https://www.credly.com/badges/b094894e-669c-48e2-a7cd-b13c6e299d62/public_url))
+- [Associate of ISC2 Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/b094894e-669c-48e2-a7cd-b13c6e299d62/public_url)
 - [CompTIA Network+ ce Certification](https://www.credly.com/badges/0404ddba-0e02-495a-a695-9527d6670c1e/public_url)
 - [Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://www.credly.com/badges/7088dfd1-8d41-4fe9-be28-d2ab983a25fe/public_url)
 - [Cybersecurity Incident Response](https://blockchain.maryville.edu/certificate/be4956f6272e5ed7915f106eee7b9521)
