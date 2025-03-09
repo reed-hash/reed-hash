@@ -8,7 +8,7 @@
     - Maryville Univerity 
     - John E. Simon School of Business: Outstanding Graduate Cybersecurity Student
     - GPA 4.0
-- <b> [Bachelors of Science]<b>
+- <b> Bachelors of Science <b>
     - Arkansas State University
     - GPA 3.7
     - Division I Student Athlete - Track and Field 
